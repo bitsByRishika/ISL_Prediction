@@ -35,7 +35,4 @@ Two publicly available Kaggle datasets were used:
 
 High accuracy alone is not a reliable indicator of model performance. Proper dataset analysis and realistic evaluation are essential, especially for computer vision tasks like sign language recognition.
 
-## Repository Contents
 
-- `ISL_Model_Comparison.ipynb` — complete implementation and experiments
-- Model comparison plots and confusion matrices (generated within the notebook)
